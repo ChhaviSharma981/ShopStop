@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #f2f2f2;
+    padding: 10px;
+    position:relative;
+    height: 130px;
+    
+  }
+
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    
+  }
+  
+  .navbar ul li {
+    /* margin-right: 10px; */
+    padding-left: 50px;
+    position: relative;
+    float: left;
+    
+    
+  }
+  
+  .navbar ul li a {
+    text-decoration: none;
+      font-size: 1.2rem;
+      font-weight: 450;
+      /* color: rgb(62, 15, 234); */
+      transition: 0.3s ease-in-out;
+     
+  }
+  

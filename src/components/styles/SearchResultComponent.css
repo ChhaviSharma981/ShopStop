@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0 px;
+  padding: 0px;
+  
+}
+
+.search-component:hover {
+  background-color: whitesmoke;
+}
